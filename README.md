@@ -1,6 +1,6 @@
 # Hello-FOSS-LifeAudit
 This project is a part of HELLO-FOSS: Celebration of Open Source by the Web and Coding Club. In this project we will be seeing the application of python in
-developing an interesting, statistical simulation of our life in an online semester
+developing an interesting, statistical simulation of our life in an online semester.
 
 ### Guidelines
 To contribute to this project there are not many prerequisites just that you should have  a basic grasp over Python.You can go through [these resources](https://github.com/wncc/TSS-2021/tree/main/Python%20%26%20its%20Applications/Week-1) if you want to revise or learn Python.  
